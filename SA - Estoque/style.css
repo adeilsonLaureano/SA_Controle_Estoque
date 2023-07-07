@@ -1,0 +1,23 @@
+.sidebar {
+    height: 100vh;
+}
+
+.sidebar-nav-link {
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar-nav-link:hover {
+    background-color: #e9ecef;
+}
+
+.content {
+    background-color: #e9ecef;
+}
+
+.content2 {
+    margin: 15px;
+    float: right;
+}
+
